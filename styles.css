@@ -22,7 +22,7 @@ header{
 
 }
 .cta-btn :hover{
-    opacity: 1;
+    opacity: 0.3;
     background-color: gray;
 }
 
@@ -66,7 +66,7 @@ header{
 
 }
 .btn-cta :hover {
-    opacity: 1;
+    opacity: 0.3;
     transform: translate(-3px);
 }
 
@@ -141,7 +141,7 @@ h2{
 }
 
 #started-for-free :hover{
-    opacity: 1;
+    opacity: 0.3;
     transform: translate(-3px);
 }
 
@@ -183,6 +183,7 @@ h2{
 
 .footer-logo {
     max-width: 300px;
+    
 }
 
 .footer-logo img {
